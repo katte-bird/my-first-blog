@@ -25,7 +25,7 @@ SECRET_KEY = '$t!nk2jrgo$ygz!4-9gsmk%h_w4^f59y4f^bp0c*)6*qzh!y_1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<katte_bird>.pythhonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'kattebird.pythhonanywhere.com']
 
 
 # Application definition
